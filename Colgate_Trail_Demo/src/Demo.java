@@ -18,7 +18,7 @@ public class Demo {
 
     public void roomOne(){
         System.out.println("we begin our journey in a dark room");
-        System.out.println(player + " has no idea how they got there or ");
+        System.out.println(player + " has no idea how they got there or why they are here");
     }
 
 }
